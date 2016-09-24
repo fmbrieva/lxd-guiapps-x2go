@@ -42,7 +42,7 @@ This is an easy way to run graphical apps ***GUI*** from within LXD container vi
 
 > ***Pokemon*** container has ip address *192.168.1.201*
 
-- Install x2goclient
+- Install x2goclient in remote computer
 
 >*In Ubuntu*: ***apt install x2goclient***
 
@@ -52,6 +52,13 @@ LXD Container: ***pokemon***
 
 User/Password: ***pikachu***/***pikachu***
 
+## Usage
+
+- Start ***x2goclient*** in remote computer and add a new session
+- Enter user (***pikachu***) and password (***pikachu***)
+- You have a GUI session in LXD container
+
+>***x2goclient***
 ## Credits
 - LXD http://www.ubuntu.com/cloud/lxd
 - X2go http://wiki.x2go.org/doku.php/start
