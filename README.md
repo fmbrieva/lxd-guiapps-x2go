@@ -3,6 +3,8 @@ Running *GUI applications* inside a ***LXD container***.
 
 This is an easy way to run graphical apps ***GUI***  from within LXD container via ***x2go***.
 
+![](http://www.delegacionprovincial.com/mediawiki/upload_files/lxd_images/images/lxd_x2go_scenario.png)
+
 ## Installation
 
 - Download tar file  [LXD container image](http://www.delegacionprovincial.com/mediawiki/upload_files/lxd_images/pokemon_20160924.tar.gz):
