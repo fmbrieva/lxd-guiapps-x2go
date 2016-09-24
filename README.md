@@ -11,9 +11,13 @@ This is an easy way to run graphical apps from within LXD container via x2go.
 
 - Import LXD image in your Linux Container Hypervisor LXD 
 
->`lxc image import pokemon_YYYYMMDD.tar.gz --alias pokemon-YYYYMMDD`
+>`lxc image import pokemon_20160924.tar.gz --alias pokemon-20160924`
 
-- Check your images list `lxc image list`
+- Check your images list 
+ 
+>`lxc image list`
+
+```
 +-------------------+--------------+--------+---------------------------------------------+--------+----------+-------------------------------+
 
 |       ALIAS       | FINGERPRINT  | PUBLIC |                DESCRIPCIÓN                 |  ARQ   | TAMAÑO  |          UPLOAD DATE          |
@@ -23,6 +27,7 @@ This is an easy way to run graphical apps from within LXD container via x2go.
 | pokemon-20160924  | c71daeb7f548 | no     | Ubuntu 16.04 LTS server (20160922)          | x86_64 | 593.93MB | Sep 24, 2016 at 1:05pm (UTC)  |
 
 +-------------------+--------------+--------+---------------------------------------------+--------+----------+-------------------------------+
+```
 
 - Create a container
   lxc launch pokemon-20160924 pokemon
