@@ -36,7 +36,7 @@ This is an easy way to run graphical apps ***GUI*** from within LXD container vi
 +-----------+---------+----------------------+------+------------+-----------+
 |  NOMBRE   | ESTADO  |         IPV4         | IPV6 |    TIPO    | SNAPSHOTS |
 +-----------+---------+----------------------+------+------------+-----------+
-| pokemon   | RUNNING | 10.197.26.201 (eth0) |      | PERSISTENT | 0         |
+| pokemon   | RUNNING | 192.168.1.201 (eth0) |      | PERSISTENT | 0         |
 +-----------+---------+----------------------+------+------------+-----------+
 ```
 
