@@ -11,11 +11,11 @@ This is an easy way to run graphical apps ***GUI*** from within LXD container vi
 
 - Import *LXD image* in your *Linux Container Hypervisor LXD* 
 
->`lxc image import pokemon_20160924.tar.gz --alias pokemon-20160924`
+>`***lxc image import pokemon_20160924.tar.gz --alias pokemon-20160924***`
 
 - Check your images list 
  
->`lxc image list`
+>`***lxc image list***`
 
 ```
 +-------------------+--------------+--------+---------------------------------------------+--------+----------+-------------------------------+
@@ -42,7 +42,7 @@ This is an easy way to run graphical apps ***GUI*** from within LXD container vi
 
 - Install x2goclient
 
->*In Ubuntu*: apt install x2goclient
+>*In Ubuntu*: ***apt install x2goclient***
 
 ## Notes
 
