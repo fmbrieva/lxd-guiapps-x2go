@@ -47,6 +47,7 @@ This is an easy way to run graphical apps ***GUI*** from within LXD container vi
 ## Notes
 
 LXD Container: ***pokemon***
+
 User/Password: ***pikachu***/***pikachu***
 
 ## Credits
