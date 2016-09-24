@@ -68,7 +68,7 @@ session: XFCE
 - Enter user (***pikachu***) and password (***pikachu***)
 - You have a GUI session in LXD container
 
-Now you can change hostname (/etc/hostname) and create new users (adduser) in the container
+Now you can change *hostname* (/etc/hostname) and *create new users* (adduser) in the container
 
 ## Credits
 - LXD http://www.ubuntu.com/cloud/lxd
