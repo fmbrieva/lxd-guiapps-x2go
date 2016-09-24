@@ -66,9 +66,15 @@ user: pikachu
 SSH port:22
 session: XFCE
 ```
+![](http://www.delegacionprovincial.com/mediawiki/upload_files/lxd_images/images/lxd_x2go_session.png)
 
 - Enter user (***pikachu***) and password (***pikachu***)
+
+![](http://www.delegacionprovincial.com/mediawiki/upload_files/lxd_images/images/lxd_x2go_login.png)
+
 - You have a GUI session in LXD container
+
+![](http://www.delegacionprovincial.com/mediawiki/upload_files/lxd_images/images/lxd_x2go_panel.png)
 
 Now you can change *hostname* (/etc/hostname) and *create new users* (adduser) in the container
 
