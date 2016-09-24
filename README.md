@@ -40,6 +40,8 @@ This is an easy way to run graphical apps ***GUI*** from within LXD container vi
 +-----------+---------+----------------------+------+------------+-----------+
 ```
 
+> Container has ip address *192.168.1.201*
+
 - Install x2goclient
 
 >*In Ubuntu*: ***apt install x2goclient***
