@@ -1,5 +1,5 @@
 # lxd-guiapps-x2go
-Running **GUI applications** inside a **LXD containe**r.
+Running *GUI applications* inside a ***LXD container***.
 
 This is an easy way to run graphical apps from within LXD container via x2go.
 
