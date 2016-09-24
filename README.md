@@ -7,7 +7,7 @@ This is an easy way to run graphical apps ***GUI*** from within LXD container vi
 
 - Download tar file with [LXD container image](http://www.delegacionprovincial.com/mediawiki/upload_files/lxd_images/pokemon_20160924.tar.gz):
 
->Actual tar file: *pokemon_20160924.tar.gz*
+>Actual tar file: ***pokemon_20160924.tar.gz***
 
 - Import *LXD image* in your *Linux Container Hypervisor LXD* 
 
