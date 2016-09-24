@@ -11,11 +11,11 @@ This is an easy way to run graphical apps ***GUI*** from within LXD container vi
 
 - Import *LXD image* in your *Linux Container Hypervisor LXD* 
 
->`***lxc image import pokemon_20160924.tar.gz --alias pokemon-20160924***`
+>***lxc image import pokemon_20160924.tar.gz --alias pokemon-20160924***
 
 - Check your images list 
  
->`***lxc image list***`
+>***lxc image list***
 
 ```
 +-------------------+--------------+--------+---------------------------------------------+--------+----------+-------------------------------+
@@ -27,11 +27,11 @@ This is an easy way to run graphical apps ***GUI*** from within LXD container vi
 
 - Create a container
 
-> lxc launch pokemon-20160924 pokemon
+> ***lxc launch pokemon-20160924 pokemon***
 
 - List your containers
 
-> lxc list
+> ***lxc list***
 ```
 +-----------+---------+----------------------+------+------------+-----------+
 |  NOMBRE   | ESTADO  |         IPV4         | IPV6 |    TIPO    | SNAPSHOTS |
