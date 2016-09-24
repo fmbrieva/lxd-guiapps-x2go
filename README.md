@@ -56,20 +56,20 @@ User/Password: ***pikachu***/***pikachu***
 
 - Start ***x2goclient*** in remote computer and add a new session
 
+>***x2goclient***
+
 ```
 Host: ip of pokemon container
 user: pikachu
 SSH port:22
 session: XFCE
 ```
-You can change hostname (/etc/hostname) and create new users (adduser) inside the container
-
-> ***lxc exec pokemon bash***
 
 - Enter user (***pikachu***) and password (***pikachu***)
 - You have a GUI session in LXD container
 
->***x2goclient***
+Now you can change hostname (/etc/hostname) and create new users (adduser) in the container
+
 ## Credits
 - LXD http://www.ubuntu.com/cloud/lxd
 - X2go http://wiki.x2go.org/doku.php/start
