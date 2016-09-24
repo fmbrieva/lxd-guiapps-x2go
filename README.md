@@ -6,8 +6,8 @@ This is an easy way to run graphical apps ***GUI***  from within *LXD container*
 ![](http://www.delegacionprovincial.com/mediawiki/upload_files/lxd_images/images/lxd_x2go_scenario.png)
 
 ```
-Container Name: *pokemon*
-Container O.S.: *Ubuntu Xenial 16.04.1 LTS*
+Container Name: pokemon
+Container O.S.: Ubuntu Xenial 16.04.1 LTS
 ```
 
 ## Installation
