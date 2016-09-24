@@ -55,7 +55,7 @@ Container O.S.: Ubuntu Xenial 16.04.1 LTS
 
 ## Notes
 
-LXD Container: ***pokemon***
+LXD Container Name: ***pokemon***
 
 User/Password: ***pikachu***/***pikachu***
 
