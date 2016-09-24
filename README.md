@@ -7,7 +7,7 @@ This is an easy way to run graphical apps from within LXD container via x2go.
 
 - Download tar file with [LXD container image](http://www.delegacionprovincial.com/mediawiki/upload_files/lxd_images/pokemon_20160924.tar.gz)
 
->Example of tar file: pokemon_20160924.tar.gz
+>Example of tar file: *pokemon_20160924.tar.gz*
 
 - Import LXD image in your Linux Container Hypervisor LXD 
 
@@ -34,20 +34,15 @@ This is an easy way to run graphical apps from within LXD container via x2go.
 > lxc list
 ```
 +-----------+---------+----------------------+------+------------+-----------+
-
 |  NOMBRE   | ESTADO  |         IPV4         | IPV6 |    TIPO    | SNAPSHOTS |
-
 +-----------+---------+----------------------+------+------------+-----------+
-
 | pokemon   | RUNNING | 10.197.26.201 (eth0) |      | PERSISTENT | 0         |
-
 +-----------+---------+----------------------+------+------------+-----------+
 ```
 
 - Install x2goclient
 
->In Ubuntu: apt install x2goclient
-
+>*In Ubuntu*: apt install x2goclient
 
 
 (More details about installation at [Extension:Grafana#installation](https://www.mediawiki.org/wiki/Extension:Grafana#Installation))
